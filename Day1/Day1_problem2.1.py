@@ -7,3 +7,6 @@
 twobit=int(input())
 print(twobit//10,twobit%10)
 
+#another way
+a,b=input()
+print(a,b)
